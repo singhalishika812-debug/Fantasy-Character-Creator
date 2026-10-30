@@ -1,0 +1,6 @@
+{
+  "name": "Fantasy Character Creator",
+  "description": "Create your own legendary hero! An interactive fantasy character generator with unique names and classes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
